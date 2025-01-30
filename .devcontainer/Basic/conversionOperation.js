@@ -12,3 +12,9 @@ console.log(typeof strVal);
 let strBool = ""
 let boolVal = Boolean(strBool)
 console.log(boolVal)
+
+console.log(+true);
+console.log(+"");
+
+console.log("2"===2); // strictly ckeck ->  value & datatype
+console.log("2"==2);  
