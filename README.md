@@ -1,2 +1,2 @@
 # JavaScript-
-Tutorial 
+Tutorial.
